@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Defait006
 - 👀 I’m interested in coding and learning something new
-- 🌱 I’m currently learning C++ and also Python with SQL
+- 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on projcets, when i become proficient in coding
 - 📫 How to reach me via my email
 - ⚡ Fun fact: (SIC)
